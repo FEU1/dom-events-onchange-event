@@ -1,1 +1,1 @@
-# DOM events - onchange event
+# Mimicing a loading state
